@@ -2,6 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IPO Nasdaq Calendar//stockanalysis-scraper//ID
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
 X-WR-CALNAME:IPO NASDAQ Calendar
-X-WR-CALDESC:Belum ada data - tunggu run pertama GitHub Actions
+X-WR-CALDESC:Jadwal IPO NASDAQ, sumber data: stockanalysis.com
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:PTT-20260908@ipo-nasdaq-calendar
+DTSTAMP:20260907T163623Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:IPO: PTT - Siyata PTT
+DESCRIPTION:Price range: $7.00 - $7.00 | Shares offered: 6112327 | Deal size: 42.79M | Source: stockanalysis.com/ipos/calendar
+END:VEVENT
 END:VCALENDAR
