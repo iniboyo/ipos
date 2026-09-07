@@ -1,0 +1,7 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IPO Nasdaq Calendar//stockanalysis-scraper//ID
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IPO NASDAQ Calendar
+X-WR-CALDESC:Belum ada data - tunggu run pertama GitHub Actions
+END:VCALENDAR
