@@ -8,11 +8,11 @@ X-WR-CALDESC:Jadwal IPO NASDAQ, sumber data: stockanalysis.com
 X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:PTT-20260908@ipo-nasdaq-calendar
-DTSTAMP:20260909T033521Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:IPO: PTT - Siyata PTT
-DESCRIPTION:Price range: $7.00 - $7.00 | Shares offered: 6112327 | Deal size: 42.79M | Source: stockanalysis.com/ipos/calendar
+UID:HNUC-20260918@ipo-nasdaq-calendar
+DTSTAMP:20260909T105415Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:IPO: HNUC - Holtec Nuclear Corporation
+DESCRIPTION:Price range: $15.00 - $18.00 | Shares offered: 50000000 | Deal size: 825.00M | Source: stockanalysis.com/ipos/calendar
 END:VEVENT
 END:VCALENDAR
