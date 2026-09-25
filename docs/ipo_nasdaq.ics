@@ -9,10 +9,10 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:ADRX-20260925@ipo-nasdaq-calendar
-DTSTAMP:20260924T211524Z
+DTSTAMP:20260925T035409Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:IPO: ADRX - ADARx Pharmaceuticals\, Inc.
-DESCRIPTION:Price range: $15.00 - $17.00 | Shares offered: 21875000 | Deal size: 350.00M | Source: stockanalysis.com/ipos/calendar
+DESCRIPTION:Price range: $17.00 | Shares offered: 26250000 | Deal size: 446.25M | Source: stockanalysis.com/ipos/calendar
 END:VEVENT
 END:VCALENDAR
