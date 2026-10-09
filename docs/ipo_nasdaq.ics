@@ -9,7 +9,7 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:PAXG-20261006@ipo-nasdaq-calendar
-DTSTAMP:20261009T050254Z
+DTSTAMP:20261009T124500Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:IPO: PAXG - Pine Tree Acquisition Corp.
@@ -17,18 +17,18 @@ DESCRIPTION:Price range: $10.00 | Shares offered: 10000000 | Deal size: 100.00M 
 END:VEVENT
 BEGIN:VEVENT
 UID:RTSN-20261009@ipo-nasdaq-calendar
-DTSTAMP:20261009T050254Z
+DTSTAMP:20261009T124500Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:IPO: RTSN - Retension Pharmaceuticals\, Inc.
-DESCRIPTION:Price range: $11.00 - $13.00 | Shares offered: 3300000 | Deal size: 39.60M | Source: stockanalysis.com/ipos/calendar
+DESCRIPTION:Price range: $12.00 | Shares offered: 3750000 | Deal size: 45.00M | Source: stockanalysis.com/ipos/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:TRXB-20261009@ipo-nasdaq-calendar
-DTSTAMP:20261009T050254Z
+DTSTAMP:20261009T124500Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:IPO: TRXB - TRex Bio\, Inc.
-DESCRIPTION:Price range: $14.00 - $16.00 | Shares offered: 8333334 | Deal size: 125.00M | Source: stockanalysis.com/ipos/calendar
+DESCRIPTION:Price range: $14.00 | Shares offered: 8333334 | Deal size: 116.67M | Source: stockanalysis.com/ipos/calendar
 END:VEVENT
 END:VCALENDAR
