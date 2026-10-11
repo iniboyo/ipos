@@ -8,11 +8,19 @@ X-WR-CALDESC:Jadwal IPO NASDAQ, sumber data: stockanalysis.com
 X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:PAXG-20261006@ipo-nasdaq-calendar
-DTSTAMP:20261011T043408Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:IPO: PAXG - Pine Tree Acquisition Corp.
-DESCRIPTION:Price range: $10.00 | Shares offered: 10000000 | Deal size: 100.00M | Source: stockanalysis.com/ipos/calendar
+UID:IAM-20261015@ipo-nasdaq-calendar
+DTSTAMP:20261011T121629Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:IPO: IAM - Iambic Therapeutics\, Inc.
+DESCRIPTION:Price range: $15.00 - $17.00 | Shares offered: 9375000 | Deal size: 150.00M | Source: stockanalysis.com/ipos/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:CTY-20261016@ipo-nasdaq-calendar
+DTSTAMP:20261011T121629Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:IPO: CTY - City Therapeutics\, Inc.
+DESCRIPTION:Price range: $17.00 - $19.00 | Shares offered: 9722222 | Deal size: 175.00M | Source: stockanalysis.com/ipos/calendar
 END:VEVENT
 END:VCALENDAR
