@@ -8,35 +8,11 @@ X-WR-CALDESC:Jadwal IPO NASDAQ, sumber data: stockanalysis.com
 X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:AMRO-20261015@ipo-nasdaq-calendar
-DTSTAMP:20261016T033348Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:IPO: AMRO - Amaero Inc.
-DESCRIPTION:Price range: $4.25 | Shares offered: 4705883 | Deal size: 20.00M | Source: stockanalysis.com/ipos/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:IAM-20261015@ipo-nasdaq-calendar
-DTSTAMP:20261016T033348Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:IPO: IAM - Iambic Therapeutics\, Inc.
-DESCRIPTION:Price range: $16.00 | Shares offered: 9375000 | Deal size: 150.00M | Source: stockanalysis.com/ipos/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:SCQC-20261015@ipo-nasdaq-calendar
-DTSTAMP:20261016T033348Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:IPO: SCQC - SPACCircle Acquisition Corp.
-DESCRIPTION:Price range: $10.00 | Shares offered: 15000000 | Deal size: 150.00M | Source: stockanalysis.com/ipos/calendar
-END:VEVENT
-BEGIN:VEVENT
 UID:CTY-20261016@ipo-nasdaq-calendar
-DTSTAMP:20261016T033348Z
+DTSTAMP:20261016T105436Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:IPO: CTY - City Therapeutics\, Inc.
-DESCRIPTION:Price range: $17.00 - $19.00 | Shares offered: 9722222 | Deal size: 175.00M | Source: stockanalysis.com/ipos/calendar
+DESCRIPTION:Price range: $18.00 | Shares offered: 11111111 | Deal size: 200.00M | Source: stockanalysis.com/ipos/calendar
 END:VEVENT
 END:VCALENDAR
